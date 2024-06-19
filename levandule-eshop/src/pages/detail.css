@@ -1,0 +1,45 @@
+.product {
+    position: relative;
+    width: 800px;
+    margin: 10rem auto;
+    display: flex;
+    gap: 1rem;
+    background-color: white;
+    border-radius: 1rem;
+    padding: 1rem;
+    box-shadow: 0 0 5px rgb(98, 98, 98);
+    font-size: 20px;
+}
+
+.img-product {
+    width: 350px;
+    height: 350px;
+}
+
+.info {
+    margin-top: 9px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+span {
+    font-size: small;
+}
+
+.btn {
+    position: absolute;
+    top: 20rem;
+    left: 38rem;
+    font-size: 20px;
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    background-color: rgba(137, 43, 226, 0.481);
+}

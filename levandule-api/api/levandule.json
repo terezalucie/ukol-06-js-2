@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "name": "Levandule lékařská",
+        "img": "https://get.pxhere.com/photo/nature-grass-plant-field-meadow-prairie-flower-purple-summer-floral-aroma-green-herb-crop-botany-blue-agriculture-garden-flora-lavender-wildflower-flowers-wild-plant-french-bed-petals-decorative-violet-lavender-field-provence-fragrant-herbs-flowering-flower-meadow-fragrance-aromatic-medicinal-plant-macro-photography-inflorescence-summer-flowers-garden-flowers-cottage-garden-flowering-plant-lamiaceae-lavender-flowers-dunkellia-lavender-cultivation-wildblue-true-lavender-narrow-leaf-lavender-lavandula-angustifolia-lavandula-officinalis-lavandula-vera-scented-plant-homeopathy-lavender-meadow-lavendula-blooming-lavender-lilac-blue-annual-plant-land-plant-english-lavender-french-lavender-lavandula-dentata-483682.jpg",
+        "use": "Levandule lékařská se pěstuje především díky svým léčebným účinkům ke zklidnění úzkosti a stresu, na podporu trávení nebo při nespavosti. Dokáže nejen uklidnit, ale dokonce i skvěle chutná!",
+        "size": "60 - 90 cm",
+        "price": 300
+    },
+    {
+        "id": 1,
+        "name": "Levandule prostřední",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Levandule_prost%C5%99edn%C3%AD.jpg",
+        "use": "Tento druh je komerčně pěstován především díky velkému obsahu vonných silic. Zatímco levandule lékařská má okolo 1 % vonných silic, Lavendin jich může mít až 3x víc.",
+        "size": "až 120 cm",
+        "price": 350
+    },
+    {
+        "id": 2,
+        "name": "Levandule korunkatá",
+        "img": "https://zavunilevandule.cz/wp-content/uploads/2022/02/druhy-levandule-stoechas-royal-splendour.jpg",
+        "use": "Levandule korunkatá se od ostatních liší především svým vzhledem. Má převážně růžové květy, které vyčnívají z hlávky. Ty jsou oválnější, tmavší a větší.",
+        "size": "45 - 60 cm",
+        "price": 400
+    },
+    {
+        "id": 3,
+        "name": "Levandule Lanata",
+        "img": "https://www.mini-kurzy.cz/wordpress/wp-content/uploads/2022/01/Levandule-spanelska-motyli-Lavandula-lanata.jpg",
+        "use": "Lavandula Lanata je typická svými stříbrnými vlnatými chloupky na svých listech a tmavě fialovými květenstvím.",
+        "size": "do 1 metru",
+        "price": 300
+    },
+    {
+        "id": 4,
+        "name": "Levandule širokolistá",
+        "img": "https://plzen.rozhlas.cz/sites/default/files/styles/cro_16x9_tablet/public/images/03896632.jpeg?itok=A984l9Ad",
+        "use": "Levandule širokolistá je původem ze západního Středomoří a má mnohé využití k výrobě parfémů nebo farmaceutický průmysl.",
+        "size": "30 - 90 cm",
+        "price": 290
+    },
+    {
+        "id": 5,
+        "name": "Levandule zoubkatá",
+        "img": "https://cdn.myshoptet.com/usr/www.zahradnictvi-spomysl.cz/user/shop/big/49539_dentata.jpg?646717d5",
+        "use": "Levandule zoubkatá se odlišuje svými šedozelenými zubatými listy, což je patrné už z jejího českého názvu.",
+        "size": "do 60 cm",
+        "price": 300
+    }
+]

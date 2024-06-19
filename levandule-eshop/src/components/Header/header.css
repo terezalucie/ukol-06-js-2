@@ -1,0 +1,12 @@
+header {
+    background: linear-gradient(90deg, rgb(172, 0, 219), rgb(85, 0, 176));
+    height: 100vh;
+    text-align: center;
+}
+
+.header-heading {
+    color: white;
+    font-size: 90px;
+    padding: 15rem 5rem;
+    text-transform: uppercase;
+}
